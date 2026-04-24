@@ -1,0 +1,12 @@
+local _0x3 = _0x2:MakeWindow({
+    Name=__0xbd(1),
+    HidePremium=false,
+    SaveConfig=true,
+    ConfigFolder=__0xbd(2)
+})
+
+local _0x4 = _0x3:MakeTab({
+    Name=__0xbd(15),
+    Icon=__0xbd(16),
+    PremiumOnly=false
+})
