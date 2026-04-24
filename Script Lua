@@ -1,12 +1,12 @@
-local _0x3 = _0x2:MakeWindow({
-    Name=__0xbd(1),
-    HidePremium=false,
-    SaveConfig=true,
-    ConfigFolder=__0xbd(2)
+_G._0x3 = _G._0x2:MakeWindow({
+Name=_G.__0xbd(1),
+HidePremium=false,
+SaveConfig=true,
+ConfigFolder=_G.__0xbd(2)
 })
 
-local _0x4 = _0x3:MakeTab({
-    Name=__0xbd(15),
-    Icon=__0xbd(16),
-    PremiumOnly=false
+_G._0x4 = _G._0x3:MakeTab({
+Name=_G.__0xbd(15),
+Icon=_G.__0xbd(16),
+PremiumOnly=false
 })
